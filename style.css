@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: relative;
+    background-color: blueviolet;
+}
+
+.moon{
+    position: absolute;
+    background-color: white;
+    height: 250px;
+    width: 250px;
+    top: 225px;
+    left: 25%;
+    border-radius: 50%;
+   
+}
+
+.moon1{
+    position: absolute;
+     background-color: blueviolet;
+    height: 250px;
+    width: 250px;
+    top: 200px;
+    left: 27%;
+    border-radius: 50%;
+}
